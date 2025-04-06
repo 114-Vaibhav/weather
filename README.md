@@ -1,3 +1,4 @@
+https://114-vaibhav.github.io/weather/
 # Weather App
 
 This project is a simple web-based Weather App that fetches weather data from an API based on the user's input city. The app displays the current temperature, city name, humidity, and wind speed.
